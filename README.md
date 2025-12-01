@@ -79,10 +79,8 @@ You can copy–paste **directly into GitHub**.
 
 ---
 
-
-<div align="center">
 ![IMG](assets/img.png)
-</div>
+
 ---
 
 ## 📍 Pin Mapping
